@@ -24,3 +24,10 @@ def form():
     senha = request.form.get("senha")
     title = "Thank you"
     return render_template("form.html", title=title, email=email, senha=senha)
+
+@app.route('/chat', methods=["GET","POST"])
+def chat():
+    pergunta += "Ola" #request.form.get("pergunta")
+    resposta += "Olá meu estou bem e você?"
+    title = "Chat"
+    return render_template("form.html", title=title, pergunta=pergunta, resposta=resposta)
