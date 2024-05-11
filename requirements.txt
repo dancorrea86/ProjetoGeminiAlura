@@ -1,13 +1,11 @@
 annotated-types==0.6.0
 blinker==1.8.2
-Bootstrap-Flask==2.4.0
 cachetools==5.3.3
 certifi==2024.2.2
 charset-normalizer==3.3.2
 click==8.1.7
 colorama==0.4.6
 Flask==3.0.3
-Flask-WTF==1.2.1
 google-ai-generativelanguage==0.6.2
 google-api-core==2.19.0
 google-api-python-client==2.129.0
@@ -32,7 +30,6 @@ pydantic==2.7.1
 pydantic_core==2.18.2
 pyparsing==3.1.2
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
 pytz==2024.1
 requests==2.31.0
 rsa==4.9
@@ -43,4 +40,3 @@ tzdata==2024.1
 uritemplate==4.1.1
 urllib3==2.2.1
 Werkzeug==3.0.3
-WTForms==3.1.2
