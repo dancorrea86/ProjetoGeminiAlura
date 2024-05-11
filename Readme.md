@@ -64,6 +64,12 @@ Na página princial existe um formulário.
 
 Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
 
+## Implementações pendentes 📄
+
+- Criar função para limpar o Chat.
+- Melhorar o visual da aplicação.
+- Refatorar o código para maior separação e reutilização.
+
 ## Contato 📬
 
 - [GitHub](https://github.com/dancorrea86)
