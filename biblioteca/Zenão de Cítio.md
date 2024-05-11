@@ -1,0 +1,3 @@
+<h1>Descrição</h1>
+
+<p>Zenão de Cítio (em grego clássico: Ζήνων ὁ Κιτιεύς; romaniz.:Zēnōn ho Kitieŭs; Cítio, 333 a.C. – Atenas, 263 a.C.) foi um filósofo helenístico da Grécia Antiga, fundador do estoicismo. Nasceu em Cítio (atual Lárnaca), na ilha de Chipre. Lecionou em Atenas, onde fundou a escola filosófica estoica por volta de 300 a.C. Com base nas ideias dos cínicos, o estoicismo enfatizava a paz de espírito, conquistada através de uma vida plena de virtude, de acordo com as leis da natureza. O estoicismo floresceu como a filosofia predominante no mundo greco-romano até o advento do cristianismo.<p>

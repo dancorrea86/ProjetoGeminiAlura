@@ -1,0 +1,10 @@
+
+Descrição
+
+Grécia Antiga (em grego: Ἑλλάς; Hellás) foi uma civilização pertencente a um período da história grega que abrange desde o Período Homérico dos séculos XIV a IX a.C. até o fim da antiguidade (c.476 d.C.). Imediatamente após este período foi o início da Idade Média e da era bizantina.
+
+Aproximadamente três séculos após o Colapso da Idade do Bronze da Grécia micênica, as pólis urbanas gregas começaram a se formar no século VIII a.C., dando início ao Período Arcaico e à colonização da Bacia do Mediterrâneo. Isto foi seguido pelo período da Grécia Clássica, uma era que começou com as Guerras Greco-Persas, que durou do século V ao século IV a.C.. Devido às conquistas de Alexandre, o Grande da Macedônia, o Período Helenístico floresceu da Ásia Central até o extremo oeste do Mar Mediterrâneo. Esta era chegou ao fim com as conquistas e anexações do mundo mediterrâneo oriental pela República Romana, que estabeleceu a província romana da Macedônia na Grécia romana e mais tarde a província de Acaia, durante o Império Romano.
+
+A cultura grega clássica, especialmente a filosofia, teve uma influência poderosa na Roma Antiga, que carregou uma versão dela para muitas partes da Bacia do Mediterrâneo e da Europa. Por essa razão, a Grécia Clássica é geralmente considerada a cultura seminal que forneceu a base da cultura ocidental moderna e é considerada o berço da civilização ocidental.
+
+Os gregos clássicos davam grande importância ao conhecimento. Ciência e religião não eram separadas e aproximar-se da verdade significava aproximar-se dos deuses. Nesse contexto, eles entendiam a importância da matemática como um instrumento para obter um conhecimento mais confiável ("divino"). A cultura grega, em poucos séculos e com uma população limitada, conseguiu explorar e progredir em muitos campos da ciência, matemática, filosofia e conhecimento em geral, o que deixou um legado duradouro.

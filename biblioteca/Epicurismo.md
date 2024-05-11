@@ -1,0 +1,15 @@
+Descrição
+
+O epicurismo é o sistema filosófico que prega a procura dos prazeres moderados para atingir um estado de tranquilidade e de ausência de medo (ataraxia) junto da ausência de sofrimento corporal (aponia), pelo conhecimento do funcionamento do mundo e do estabelecimento de limites para os desejos. A combinação desses dois estados constituiria a felicidade na sua forma mais elevada.
+
+Epicuro de Samos, filósofo ateniense do século IV a.C., era um materialista atomista, seguindo os passos de Demócrito, combatendo as superstições e as ideias de intervenção divina. O epicurismo foi inicialmente um contraposto ao platonismo. Mais tarde, seu principal oponente passaria a ser o estoicismo. Embora o epicurismo seja uma forma de hedonismo, na medida em que declara o prazer como seu único objetivo intrínseco, o conceito de que o maior prazer é a ausência de dor e medo, e a defesa de uma vida simples, tornam o Epicurismo muito diferente do que é o entendimento comum de "hedonismo". Epicuro e seus seguidores geralmente se afastavam da política porque isso poderia levar a frustrações e ambições que entrariam em conflito com sua busca pela virtude e paz de espírito.
+
+Ao contrário do objetivo Epicurista, os desejos exacerbados podem ser fonte de perturbações constantes, dificultando o encontro da felicidade que é manter a saúde do corpo e a serenidade do espírito. Segundo Epicuro, para ser feliz seria necessário controlar os nossos medos e desejos de maneira que o estado de prazer seja estável e equilibrado, com um consequente estado de tranquilidade e de ausência de perturbação.
+
+Epicuro também é conhecido como o Filósofo do Jardim, como ficou conhecida a escola por ele fundada em Atenas, que consistia numa comunidade de amigos e seguidores. Lá escreveu mais de 300 trabalhos, dos quais nenhum sobreviveu; deles restam apenas notícias de discípulos ou fragmentos. Sua filosofia é de cunho materialista, não havendo espaço para a imortalidade.
+
+A finalidade da filosofia de Epicuro não era teórica, mas bastante prática. Buscava sobretudo encontrar o sossego necessário para uma vida feliz e aprazível, na qual os temores perante o destino, os deuses ou a morte estavam definitivamente eliminados. Para isso, fundamentava-se em uma teoria do conhecimento empirista, em uma física atomista e na ética.
+
+No mundo mediterrânico antigo, a filosofia epicurista conquistou grande número de seguidores. Foi uma escola de pensamento muito proeminente por um período de sete séculos depois da morte do fundador. Posteriormente, quase relegou-se ao esquecimento devido ao início da Idade Média, período em que se perderam a maioria dos escritos deste filósofo grego.
+
+A ideia que Epicuro tinha era a de que, para ser feliz, o homem necessitava de três coisas: liberdade, amizade e tempo para filosofar. Na Grécia Antiga, existia uma cidade na qual, em todas as paredes do mercado, se havia escrito toda a filosofia da felicidade de Epicuro, procurando conscientizar as pessoas de que comprar e possuir bens materiais não as tornariam mais felizes, como elas então acreditavam.

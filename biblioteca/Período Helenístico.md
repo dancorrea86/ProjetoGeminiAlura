@@ -1,0 +1,5 @@
+Descrição
+
+O período helenístico refere-se ao período da história da Grécia e de parte do Oriente Médio compreendido entre a morte de Alexandre o Grande em 323 a.C. e a anexação da península grega e ilhas por Roma em 146 a.C. Caracterizou-se pela difusão da civilização grega numa vasta área que se estendia do mar Mediterrâneo oriental à Ásia Central. De modo geral, o helenismo foi a concretização de um ideal de Alexandre: o de levar e difundir a cultura grega aos territórios que conquistava. Foi neste período que as ciências particulares tiveram seu primeiro e grande desenvolvimento. Foi o tempo de Euclides e Arquimedes. O helenismo marcou um período de transição para o domínio e apogeu de Roma.
+
+Durante o período helenista, foram fundadas várias cidades de cultura grega, entre elas Alexandria e Antioquia, capitais do Egito ptolemaico e do Império Selêucida, respectivamente.

@@ -1,0 +1,19 @@
+Descrição
+
+Evento História|histórico
+
+Nakba é uma palavra árabe (النكبة) que significa "catástrofe" ou "desastre" e designa o êxodo palestino de 1948 (em árabe, 1948 الهجرة الفلسطينية, translit. 1948 al-Hijra al-Filasṭīnīya),[1]quando pelo menos 711.000 árabes palestinos, segundo dados da Organização das Nações Unidas, fugiram ou foram expulsos de seus lares, em razão da guerra civil de 1947-1948 e da Guerra Árabe-Israelense de 1948. O êxodo palestino marca o início do problema dos refugiados palestinos, um dos principais elementos do conflito árabe-israelense.
+
+Segundo a Agência das Nações Unidas para os Refugiados Palestinos (UNRWA), refugiados palestinos são as "pessoas cujo lugar de residência habitual era o Mandato Britânico da Palestina entre junho de 1946 e maio de 1948 e que perderam suas casas e meios de vida como consequência da Guerra árabe-israelense de 1948",[5] ou seja, aqueles que foram obrigados a deixar a parte da Palestina que viria a constituir o Estado de Israel, indo para outras partes da região ou para países vizinhos.
+
+A Resolução 194 da Assembleia Geral das Nações Unidas de 11 de dezembro de 1948 seria a primeira de uma série de resoluções da ONU a mencionar a necessidade de se chegar a um acordo equitativo e justo para o retorno dos refugiados ou para compensá-los pelas perdas e danos sofridos. A ONU considera também os descendentes dos refugiados de 1948, de modo que o número total de refugiados registrados seria, atualmente, superior a 4 milhões.
+
+Já em 1948, o historiador sírio Constantine Zureiq utilizou pela primeira vez o termo Nakba para se referir ao acontecimento, em seu livro Ma'na al-Nakba ("O significado do Desastre"). Para o historiador israelense Ilan Pappé, o termo Nakba foi adotado, por razões compreensíveis, como uma tentativa de se contrapor ao peso moral do Holocausto dos judeus (Shoah), mas, ao se referir mais ao desastre em si e não a quem ou o que causou o desastre, o termo pode ter contribuído para a contínua negação pelo mundo da limpeza étnica da Palestina, a partir de 1948.
+
+Segundo o acadêmico palestino Nur-eldeen Masalha mais de 80% dos habitantes árabes da região que viria a ser o Estado de Israel abandonaram suas cidades e aldeias. O avanço dos judeus, como o ocorrido em Haifa, somado ao medo de um massacre, após o ocorrido em Deir Yaassin, e o colapso da liderança palestina fizeram com que muitos dos habitantes árabes fugissem devido ao pânico. Uma série de leis israelenses sobre a propriedade da terra, aprovadas pelo primeiro governo israelense, impediu que os árabes palestinos retornassem posteriormente aos seus lares ou fizessem valer seus direitos de propriedade. Essas pessoas e muitos dos seus descendentes continuam a ser considerados refugiados.
+
+Durante a conferência de Lausanne de 1949, Israel propôs o retorno de 100.000 destes refugiados à região (embora não necessariamente às suas casas), incluindo 25.000 que haviam retornado de maneira sigilosa e 10.000 casos de reunião de famílias que haviam sido separadas. A proposta estava condicionada a um tratado de paz que permitisse que Israel mantivesse o território que havia conquistado, e à absorção, pelos Estados árabes, dos 550.000 - 650.000 refugiados restantes. Os Estados árabes rejeitaram a proposta alegando tanto motivos políticos quanto morais.
+
+O status dos refugiados - em especial com referência ao direito de retorno ou ao direito de receber uma compensação - é um das principais questões envolvidas no conflito israelo-palestino.
+
+Os eventos de 1948 são lembrados pelos palestinos todos os anos, no dia 15 de maio, o dia seguinte à comemoração da independência de Israel, no feriado que ficou conhecido como Dia da Nakba. Em fevereiro de 2010, o Knesset aprovou uma lei que proíbe manifestações públicas em Israel, no dia 15 de maio.

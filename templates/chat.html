@@ -1,31 +1,25 @@
 {% extends 'base.html' %}
+
 {% block content%}
 
+<div class="container">
 
-<div data-bs-spy="scroll" data-bs-target="#navbar-example2" data-bs-offset="0" class="scrollspy-example" tabindex="0">
-    <p>...</p>
-    <p>...</p>
+    <h1>Pergunta</h1>
 
-    <p>...</p>
+    <div data-bs-spy="scroll" class="scrollspy-example" tabindex="0">
 
-    <p>...</p>
 
-    <p>...</p>
-
-    <p>...</p>
-
-    <ol>
         <!-- For loop logic of jinja template -->
         {%for i in range(0, len)%}
-        <p>{{pergunta}}</p>
-        <p>{{resposta}}</p>
+        <div class="pergunta">
+            <p>{{pergunta[i]}}</p>
+        </div>
+        <div class="resposta">{{resposta[i]}}</div>
         {%endfor%}
 
-    </ol>
-
-    <div class="container">
-        <h1>Pergunta</h1>
-        <form action="/chat" method="POST">
+    </div>
+    <div>
+        <form action="/" method="POST">
             <div class="mb-3">
                 <label for="exampleInputEmail1" class="form-label">Pergunta</label>
                 <input type="text" class="form-control" id="pergunta" , placeholder="pergunta" name="pergunta">
@@ -34,5 +28,4 @@
         </form>
     </div>
 </div>
-
 {% endblock %}

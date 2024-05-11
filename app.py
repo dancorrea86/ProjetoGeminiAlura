@@ -1,33 +1,28 @@
 from flask import Flask, render_template, request
+import conexaoGemini
 
 app = Flask(__name__)
 
-@app.route("/")
-def index():
-    title = "Daniel Portifólio"
-    return render_template("index.html", title=title)
+pergunta = []
+resposta = []
+
+@app.route('/', methods=["GET","POST"])
+def chat():
+    if request.method == 'POST':
+        pergunta.append(request.form.get("pergunta"))
+        resposta.append(conexaoGemini.gerar_e_buscar_consulta(request.form.get("pergunta")))
+        title = "Chat"
+        return render_template("chat.html", title=title, len = len(pergunta), pergunta=pergunta, resposta=resposta)
+    else:
+        # pergunta.append("b")
+        # resposta.append("b")
+        title = "Chat"
+        return render_template("chat.html", title=title, len = len(pergunta), pergunta=pergunta, resposta=resposta)
+
 
 @app.route('/about')
 def about():
     names = ["John", "Mary"]
     return render_template("about.html")
 
-@app.route('/subscribe')
-def subscribe():
-    title = "Subscribe"
-    return render_template("subscribe.html", title=title)
 
-
-@app.route('/form', methods=["POST"])
-def form():
-    email = request.form.get("email")
-    senha = request.form.get("senha")
-    title = "Thank you"
-    return render_template("form.html", title=title, email=email, senha=senha)
-
-@app.route('/chat', methods=["GET","POST"])
-def chat():
-    pergunta += "Ola" #request.form.get("pergunta")
-    resposta += "Olá meu estou bem e você?"
-    title = "Chat"
-    return render_template("form.html", title=title, pergunta=pergunta, resposta=resposta)
