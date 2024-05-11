@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request
+from flask import Flask, redirect, render_template, request, url_for
 import conexaoGemini
 
 
@@ -19,12 +19,21 @@ def chat():
         # resposta.append("b")
         title = "Chat"
         return render_template("chat.html", title=title, len = len(pergunta), pergunta=pergunta, resposta=resposta)
+    
+
 
 
 @app.route('/about')
 def about():
     names = ["John", "Mary"]
     return render_template("about.html")
+
+
+def reset_chat():
+    pergunta = []
+    resposta = []
+    title = "Chat"
+    return redirect(url_for("chat.html"))
 
 
 
