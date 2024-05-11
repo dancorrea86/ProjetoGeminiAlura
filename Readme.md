@@ -1,8 +1,6 @@
-# Projeto 🚀
+# **Companheiro de Estudos Inteligente com Gemini (Resumo)** 🚀
 
 ## Descrição 📘
-
-### **Companheiro de Estudos Inteligente com Gemini (Resumo)**
 
 ### O que é:
 
