@@ -6,6 +6,8 @@
 
 Um aplicativo que utiliza a inteligência do Google Gemini para te auxiliar nos estudos.
 
+![app](https://github.com/dancorrea86/ProjetoGeminiAlura/blob/main/static/imagens/app.png)
+
 ### Como funciona:
 
 - Conecta-se às suas notas de estudo para te ajudar a revisar conceitos. 
