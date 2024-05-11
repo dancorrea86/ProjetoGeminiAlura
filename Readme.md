@@ -10,10 +10,8 @@ Um aplicativo que utiliza a inteligência do Google Gemini para te auxiliar nos 
 
 ### Como funciona:
 
-    • Conecta-se às suas notas de estudo para te ajudar a revisar conceitos. 
-    • Entende o contexto da sua pergunta para fornecer respostas relevantes, recuperando as notas de estudos.
-Futuro promissor:
-A inteligência artificial do Gemini tem potencial para revolucionar a educação.
+- Conecta-se às suas notas de estudo para te ajudar a revisar conceitos. 
+- Entende o contexto da sua pergunta para fornecer respostas relevantes, recuperando as notas de estudos.
 
 ## Como funciona
 
@@ -56,6 +54,10 @@ Para rodar a aplicação, utilize o comando.
 
 Na página princial existe um formulário.
 
-![Texto Alternativo](URL_da_Imagem)
+![Primeira Etapa](https://github.com/dancorrea86/ProjetoGeminiAlura/blob/main/static/imagens/pesquisa1.jpg)
+
+![Segunda Etapa](https://github.com/dancorrea86/ProjetoGeminiAlura/blob/main/static/imagens/pesquisa2.0.jpg)
+
+![Terceira Etapa](https://github.com/dancorrea86/ProjetoGeminiAlura/blob/main/static/imagens/pesquisa3.jpg)
 
 
