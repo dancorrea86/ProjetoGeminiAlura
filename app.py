@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import conexaoGemini
 
+
 app = Flask(__name__)
 
 pergunta = []
@@ -24,5 +25,6 @@ def chat():
 def about():
     names = ["John", "Mary"]
     return render_template("about.html")
+
 
 

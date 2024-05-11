@@ -15,9 +15,6 @@ def md_to_json(md_file, json_file):
     text = text.replace("–", "")
     text = text.replace("[[", "")
     text = text.replace("]]", "")
-    
-
-
 
     data = {
         'titulo': title,
