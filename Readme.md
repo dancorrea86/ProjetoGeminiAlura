@@ -1,6 +1,6 @@
-# Projeto
+# Projeto 🚀
 
-## Descrição
+## Descrição 📘
 
 ### **Companheiro de Estudos Inteligente com Gemini (Resumo)**
 
@@ -18,7 +18,7 @@ Um aplicativo que utiliza a inteligência do Google Gemini para te auxiliar nos 
 O aplicativo inteligente projetado para elevar seus estudos. Ao integrar-se à poderosa inteligência do Google Gemini, este aplicativo simplifica sua jornada educacional.
 Como funciona? Imagine conectar-se diretamente às suas notas de estudo para uma revisão personalizada. Este companheiro de estudos compreende o contexto das suas perguntas, fornecendo respostas precisas e relevantes, utilizando suas próprias anotações.
 
-## Instalação do projeto
+## Instalação do projeto 🔍
 
 Para instalar os pacotes necessarios abra o CMD e navegue até a pasta do projeto.
 
@@ -60,4 +60,13 @@ Na página princial existe um formulário.
 
 ![Terceira Etapa](https://github.com/dancorrea86/ProjetoGeminiAlura/blob/main/static/imagens/pesquisa3.jpg)
 
+## Licença 📄
+
+Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+
+## Contato 📬
+
+- [GitHub](https://github.com/dancorrea86)
+- danielmacielcorrea@gmail.com
+- [Linkedin](https://www.linkedin.com/in/danielmacielcorrea/)
 
